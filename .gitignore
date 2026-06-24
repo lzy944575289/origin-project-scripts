@@ -1,0 +1,21 @@
+# Measurement data and generated Origin projects
+*.csv
+*.xls
+*.xlsx
+*.opju
+*.opj
+*.bmp
+*.zip
+*.rar
+
+# Python local files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
